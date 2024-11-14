@@ -11,6 +11,6 @@ provider "aws" {
   region = "us-west-2"
 }
 
-resource "aws_s3_bucket" "2024-11-14-helen-demo" {
+resource "aws_s3_bucket" "helen-demo-2024-11-14" {
   bucket = "2024-11-14-helen-demo"
 }
